@@ -60,6 +60,7 @@ echo $pu"║▌│█║▌│ █║▌│█│║▌║║▌│█║▌│ 
 echo $cy"┌==="$bi"[ ACIL D4YY ]"
 echo $cy"¦"
 read -p">>>" pil;
+
 if [ $pil = 1 ]
 then
 clear
